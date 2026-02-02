@@ -1,4 +1,5 @@
-# Greenleaf-stores-Excel-Project-
+<img width="996" height="558" alt="image" src="https://github.com/user-attachments/assets/b5eaa67a-9bbe-4cb3-be84-585b9ae398c9" />
+
 # 🌿 GreenLeaf Stores Sales & Profitability Dashboard
 
 ## 📌 Project Overview
@@ -95,5 +96,13 @@ Without structured reporting, it was difficult to identify high-performing produ
 
 ---
 
-<img width="1365" height="511" alt="Screenshot 2026-02-02 220549" src="https://github.com/user-attachments/assets/bf676292-eed7-49ba-beb9-adc51961b46f" />
+<img width="1362" height="515" alt="Screenshot 2026-02-02 220521" src="https://github.com/user-attachments/assets/0fb5c6c7-c7ff-49b6-b629-0d95e4977943" />
+<img width="1352" height="534" alt="Screenshot 2026-02-02 220534" src="https://github.com/user-attachments/assets/6ece8d9d-88eb-4c00-9a88-3a86847da912" />
+
+<img width="1365" height="511" alt="Screenshot 2026-02-02 220549" src="https://github.com/user-attachments/assets/c86ef237-59aa-41d6-b613-a9bc898fe33b" />
+<img width="1363" height="517" alt="Screenshot 2026-02-02 220609" src="https://github.com/user-attachments/assets/724344e8-6d00-4e68-9896-6d8cc7a28d5f" />
+<img width="912" height="472" alt="Screenshot 2026-02-02 220708" src="https://github.com/user-attachments/assets/181c0394-7ff7-43ef-91ea-5f40b8dc09dd" />
+
+
+
 
