@@ -1,7 +1,12 @@
 <img width="996" height="558" alt="image" src="https://github.com/user-attachments/assets/b5eaa67a-9bbe-4cb3-be84-585b9ae398c9" />
 
 # 🌿 GreenLeaf Stores Sales & Profitability Dashboard
+## 🏢 Company Background
+GreenLeaf Stores is a retail company focused on eco-friendly and sustainable household products such as biodegradable cleaning supplies, reusable bags, and solar-powered items.  
 
+As the company expanded, management needed better visibility into sales performance, profitability, and customer purchasing trends to support strategic decision-making and inventory planning.
+
+---
 ## 📌 Project Overview
 This project analyses retail sales data for GreenLeaf Stores to understand revenue performance, product profitability, and customer purchasing trends.
 
